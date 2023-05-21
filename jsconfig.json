@@ -1,0 +1,20 @@
+ {
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "NodeNext",
+    "checkJs": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "jsx": "react",
+    "noImplicitAny": false,
+    "paths": {
+      "components/*": ["./components/*"]
+    },
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ]
+  },
+  "exclude": ["node_modules"]
+}

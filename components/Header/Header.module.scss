@@ -1,0 +1,10 @@
+.container{
+    height: 160px;
+    width: 100vw;
+    background-color: rgb(30, 30, 167);
+    padding: 1rem 3rem;
+    img{
+        position: relative !important;
+        object-fit: contain;
+    }
+}
