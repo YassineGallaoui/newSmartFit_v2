@@ -1,4 +1,4 @@
-**Project no longer mantained.**
+**Project no longer maintained.**
 
 This is a rework of the bachelor thesis project, SmartFit.
 
